@@ -1,0 +1,15 @@
+#show directories
+ls
+#clear the screen
+clear
+#show which directory your are in
+pwd
+#user manual guide
+man ls
+man cat
+#see the context of the file
+cat
+#exit man
+q
+#see how big and date of the file
+ls -l
