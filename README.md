@@ -1,2 +1,2 @@
-# Access UNIX
-MAC : Utility-Terminal
+#  UNIX
+We can access to unix in MAC by: Utility-Terminal
